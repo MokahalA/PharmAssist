@@ -4,9 +4,9 @@
 
 ### Medication pill tracking application designed to allow the user to take control of their medication management. 
 
-### 🔗 [**Live demo**]()
+### 🔗 [**Live demo**](https://verdant-melba-81c6c0.netlify.app/)
 
-[![Netlify Status]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0b3fc08-72d5-49d9-ad52-ccd648b7713f/deploy-status)](https://app.netlify.com/sites/verdant-melba-81c6c0/deploys)
 
 </div>
 
