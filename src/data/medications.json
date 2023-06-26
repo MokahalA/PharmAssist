@@ -1,0 +1,352 @@
+{
+  "medications": [
+    {
+      "name": "Lisinopril",
+      "brandNames": ["Prinivil", "Zestril"]
+    },
+    {
+      "name": "Levothyroxine",
+      "brandNames": ["Synthroid", "Levoxyl", "Tirosint"]
+    },
+    {
+      "name": "Metformin",
+      "brandNames": ["Glucophage", "Fortamet", "Glumetza"]
+    },
+    {
+      "name": "Atorvastatin",
+      "brandNames": ["Lipitor"]
+    },
+    {
+      "name": "Amlodipine",
+      "brandNames": ["Norvasc"]
+    },
+    {
+      "name": "Metoprolol",
+      "brandNames": ["Lopressor", "Toprol XL"]
+    },
+    {
+      "name": "Omeprazole",
+      "brandNames": ["Prilosec"]
+    },
+    {
+      "name": "Simvastatin",
+      "brandNames": ["Zocor"]
+    },
+    {
+      "name": "Losartan",
+      "brandNames": ["Cozaar"]
+    },
+    {
+      "name": "Albuterol",
+      "brandNames": ["Proventil", "Ventolin", "ProAir"]
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "brandNames": ["Microzide", "HydroDIURIL"]
+    },
+    {
+      "name": "Gabapentin",
+      "brandNames": ["Neurontin"]
+    },
+    {
+      "name": "Amitriptyline",
+      "brandNames": ["Elavil"]
+    },
+    {
+      "name": "Hydromorphone",
+      "brandNames": ["Dilaudid"]
+    },
+    {
+      "name": "Sertraline",
+      "brandNames": ["Zoloft"]
+    },
+    {
+      "name": "Fluoxetine",
+      "brandNames": ["Prozac", "Sarafem"]
+    },
+    {
+      "name": "Citalopram",
+      "brandNames": ["Celexa"]
+    },
+    {
+      "name": "Escitalopram",
+      "brandNames": ["Lexapro"]
+    },
+    {
+      "name": "Lorazepam",
+      "brandNames": ["Ativan"]
+    },
+    {
+      "name": "Clonazepam",
+      "brandNames": ["Klonopin"]
+    },
+    {
+      "name": "Azithromycin",
+      "brandNames": ["Zithromax"]
+    },
+    {
+      "name": "Amoxicillin",
+      "brandNames": ["Amoxil", "Moxatag"]
+    },
+    {
+      "name": "Trazodone",
+      "brandNames": ["Desyrel", "Oleptro"]
+    },
+    {
+      "name": "Prednisone",
+      "brandNames": ["Deltasone"]
+    },
+    {
+      "name": "Bupropion",
+      "brandNames": ["Wellbutrin", "Zyban"]
+    },
+    {
+      "name": "Zolpidem",
+      "brandNames": ["Ambien"]
+    },
+    {
+      "name": "Furosemide",
+      "brandNames": ["Lasix"]
+    },
+    {
+      "name": "Venlafaxine",
+      "brandNames": ["Effexor"]
+    },
+    {
+      "name": "Ciprofloxacin",
+      "brandNames": ["Cipro"]
+    },
+    {
+      "name": "Duloxetine",
+      "brandNames": ["Cymbalta"]
+    },
+    {
+      "name": "Doxycycline",
+      "brandNames": ["Vibramycin", "Doryx"]
+    },
+    {
+      "name": "Carvedilol",
+      "brandNames": ["Coreg"]
+    },
+    {
+      "name": "Ibuprofen",
+      "brandNames": ["Advil", "Motrin"]
+    },
+    {
+      "name": "Acetaminophen",
+      "brandNames": ["Tylenol"]
+    },
+    {
+      "name": "Naproxen",
+      "brandNames": ["Aleve", "Naprosyn"]
+    },
+    {
+      "name": "Acetylsalicylic acid",
+      "brandNames": ["Aspirin", "Ecotrin"]
+    },
+    {
+      "name": "Diclofenac",
+      "brandNames": ["Voltaren"]
+    },
+    {
+      "name": "Tramadol",
+      "brandNames": ["Ultram"]
+    },
+    {
+      "name": "Oxycodone",
+      "brandNames": ["OxyContin", "Percocet"]
+    },
+    {
+      "name": "Hydrocodone",
+      "brandNames": ["Vicodin", "Norco"]
+    },
+    {
+      "name": "Warfarin",
+      "brandNames": ["Coumadin", "Jantoven"]
+    },
+    {
+      "name": "Brilinta",
+      "brandNames": ["Ticagrelor"]
+    },
+    {
+      "name": "Plavix",
+      "brandNames": ["Clopidogrel"]
+    },
+    {
+      "name": "Amoxicillin-Clavulanate",
+      "brandNames": ["Augmentin"]
+    },
+    {
+      "name": "Aripiprazole",
+      "brandNames": ["Abilify"]
+    },
+    {
+      "name": "Ascorbic Acid",
+      "brandNames": ["Vitamin C"]
+    },
+    {
+      "name": "Atenolol",
+      "brandNames": ["Tenormin"]
+    },
+    {
+      "name": "Atomoxetine",
+      "brandNames": ["Strattera"]
+    },
+    {
+      "name": "Azathioprine",
+      "brandNames": ["Imuran"]
+    },
+    {
+      "name": "Baclofen",
+      "brandNames": ["Lioresal"]
+    },
+    {
+      "name": "Beclomethasone",
+      "brandNames": ["QVAR"]
+    },
+    {
+      "name": "Benazepril",
+      "brandNames": ["Lotensin"]
+    },
+    {
+      "name": "Budesonide",
+      "brandNames": ["Pulmicort", "Rhinocort"]
+    },
+    {
+      "name": "Calcium Carbonate",
+      "brandNames": ["Tums"]
+    },
+    {
+      "name": "Candesartan",
+      "brandNames": ["Atacand"]
+    },
+    {
+      "name": "Carbamazepine",
+      "brandNames": ["Tegretol"]
+    },
+    {
+      "name": "Cefdinir",
+      "brandNames": ["Omnicef"]
+    },
+    {
+      "name": "Cefuroxime",
+      "brandNames": ["Ceftin"]
+    },
+    {
+      "name": "Celecoxib",
+      "brandNames": ["Celebrex"]
+    },
+    {
+      "name": "Cephalexin",
+      "brandNames": ["Keflex"]
+    },
+    {
+      "name": "Chlorpheniramine",
+      "brandNames": ["Chlor-Trimeton"]
+    },
+    {
+      "name": "Ciprofloxacin-Dexamethasone",
+      "brandNames": ["Ciprodex"]
+    },
+    {
+      "name": "Clarithromycin",
+      "brandNames": ["Biaxin"]
+    },
+    {
+      "name": "Clindamycin",
+      "brandNames": ["Cleocin"]
+    },
+    {
+      "name": "Clopidogrel-Bisulfate",
+      "brandNames": ["Plavix"]
+    },
+    {
+      "name": "Cyclobenzaprine",
+      "brandNames": ["Flexeril"]
+    },
+    {
+      "name": "Desloratadine",
+      "brandNames": ["Clarinex"]
+    },
+    {
+      "name": "Dexamethasone",
+      "brandNames": ["Decadron"]
+    },
+    {
+      "name": "Dextromethorphan",
+      "brandNames": ["Robitussin"]
+    },
+    {
+      "name": "Diazepam",
+      "brandNames": ["Valium"]
+    },
+    {
+      "name": "Digoxin",
+      "brandNames": ["Lanoxin"]
+    },
+    {
+      "name": "Diltiazem",
+      "brandNames": ["Cardizem", "Tiazac"]
+    },
+    {
+      "name": "Donepezil",
+      "brandNames": ["Aricept"]
+    },
+    {
+      "name": "Doxazosin",
+      "brandNames": ["Cardura"]
+    },
+    {
+      "name": "Enalapril",
+      "brandNames": ["Vasotec"]
+    },
+    {
+      "name": "Esomeprazole",
+      "brandNames": ["Nexium"]
+    },
+    {
+      "name": "Ezetimibe",
+      "brandNames": ["Zetia"]
+    },
+    {
+      "name": "Fexofenadine",
+      "brandNames": ["Allegra"]
+    },
+    {
+      "name": "Finasteride",
+      "brandNames": ["Propecia"]
+    },
+    {
+      "name": "Fluticasone",
+      "brandNames": ["Flonase"]
+    },
+    {
+      "name": "Guaifenesin",
+      "brandNames": ["Mucinex"]
+    },
+    {
+      "name": "Hydralazine",
+      "brandNames": ["Apresoline"]
+    },
+    {
+      "name": "Hydroxychloroquine",
+      "brandNames": ["Plaquenil"]
+    },
+    {
+      "name": "Isosorbide Mononitrate",
+      "brandNames": ["Imdur"]
+    },
+    {
+      "name": "Ketorolac",
+      "brandNames": ["Toradol"]
+    },
+    {
+      "name": "Lamotrigine",
+      "brandNames": ["Lamictal"]
+    },
+    {
+      "name": "Lansoprazole",
+      "brandNames": ["Prevacid"]
+    }
+  ]
+}
