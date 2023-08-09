@@ -24,4 +24,13 @@
 - Easy to use, dynamic, user-interface allowing for a smooth user experience.
 - Ability to add and save medications and associate them with a specific time of day(s).
 - Daily medication list tracker generated for the user.
-- Drug look-up feature for over 300 of the most prescribed generic medications. 
+- Drug look-up feature for over 300 of the most prescribed generic medications.
+
+### Demo
+
+![login](https://github.com/MokahalA/PharmAssist/blob/main/Screenshots/Login.png)
+</br>
+![adding-demo](https://github.com/MokahalA/PharmAssist/assets/45024346/6b666fad-4483-4e07-a4a4-cd117fd43840)
+</br>
+![lookup](https://github.com/MokahalA/PharmAssist/blob/main/Screenshots/Lookup.png)
+</br>
