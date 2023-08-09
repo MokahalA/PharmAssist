@@ -29,8 +29,8 @@
 ### Demo
 
 ![login](https://github.com/MokahalA/PharmAssist/blob/main/Screenshots/Login.png)
-</br>
-![adding-demo](https://github.com/MokahalA/PharmAssist/assets/45024346/6b666fad-4483-4e07-a4a4-cd117fd43840)
-</br>
+
+https://github.com/MokahalA/PharmAssist/assets/45024346/fa170547-75b1-40f3-84b7-2dba1e6a2dc3
+
 ![lookup](https://github.com/MokahalA/PharmAssist/blob/main/Screenshots/Lookup.png)
 </br>
