@@ -2,7 +2,7 @@
 
 # PharmAssist
 
-### Medication pill tracking application designed to allow the user to take control of their medication management. 
+### Smart pill tracking app for personalized medication management and improved patient adherence.
 
 ### 🔗 [**Live demo**](https://verdant-melba-81c6c0.netlify.app/)
 
